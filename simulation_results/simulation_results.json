@@ -1,0 +1,26 @@
+{
+  "scenario": "secure_communication",
+  "status": "completed",
+  "duration": 300,
+  "metrics_collected": 298,
+  "summary": {
+    "latency_ms": {
+      "mean": 49.961124466834704,
+      "std": 5.313489681954718,
+      "min": 36.2722808907645,
+      "max": 63.72269787691296
+    },
+    "cpu_usage": {
+      "mean": 29.681576101639333,
+      "std": 5.358078825046274
+    },
+    "memory_mb": {
+      "mean": 146.31756215548714,
+      "std": 29.354554236021322
+    },
+    "bandwidth_mbps": {
+      "mean": 75.88532600270139,
+      "std": 13.986143401985368
+    }
+  }
+}

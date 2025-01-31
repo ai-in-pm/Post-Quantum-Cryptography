@@ -1,0 +1,14 @@
+{
+  "protocol": "TLS",
+  "version": "1.3+PQC",
+  "key_exchange": {
+    "classical": "X25519",
+    "quantum": "Kyber768",
+    "mode": "hybrid"
+  },
+  "authentication": {
+    "classical": "Ed25519",
+    "quantum": "Dilithium3",
+    "mode": "hybrid"
+  }
+}

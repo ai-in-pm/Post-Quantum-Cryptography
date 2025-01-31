@@ -1,0 +1,7 @@
+{
+  "algorithm": "RSA-2048",
+  "quantum_vulnerable": true,
+  "qubits_required": 4098,
+  "estimated_break_time": 8.0,
+  "mitigation": "Replace with Kyber or Dilithium"
+}

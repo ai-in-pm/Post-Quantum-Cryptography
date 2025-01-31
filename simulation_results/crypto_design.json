@@ -1,0 +1,16 @@
+{
+  "kem": {
+    "algorithm": "Kyber768",
+    "security_level": "AES-192 equivalent",
+    "status": "NIST Round 3 Winner"
+  },
+  "signature": {
+    "algorithm": "Dilithium3",
+    "security_level": "AES-192 equivalent",
+    "status": "NIST Round 3 Winner"
+  },
+  "symmetric": {
+    "algorithm": "AES-256-GCM",
+    "quantum_resistance": "Maintained with larger key sizes"
+  }
+}
