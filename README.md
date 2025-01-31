@@ -72,6 +72,10 @@ python main.py --agent alpha  # Run Cryptography Architect
 python main.py --all         # Run full simulation
 ```
 
+## Output after running the full simulation
+![image](https://github.com/user-attachments/assets/eb7f8d3f-26e0-4fcf-9291-25464d48d825)
+
+
 ## Security Considerations
 - This system implements NIST-approved PQC algorithms
 - Hybrid cryptographic approach ensures backward compatibility
