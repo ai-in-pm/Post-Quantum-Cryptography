@@ -74,7 +74,7 @@ python main.py --all         # Run full simulation
 
 ## Output after running the full simulation
 ![image](https://github.com/user-attachments/assets/eb7f8d3f-26e0-4fcf-9291-25464d48d825)
-
+![image](https://github.com/user-attachments/assets/d75ff168-0c89-4d78-9b38-f7412c8ffc9e)
 
 ## Security Considerations
 - This system implements NIST-approved PQC algorithms
